@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 711 dir_perm
+chmod 711, 755 dir_perm
