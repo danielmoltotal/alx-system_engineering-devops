@@ -1,2 +1,3 @@
 #!/bin/bash
-alias cdproj='cd /home'
+cd /root
+$SHELL
